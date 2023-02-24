@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Autonomous Navigation Bot**
 
-- 🌱 I’m currently exploring **AI , PYTHON**
+- 🌱 I’m currently exploring **JAVA , SQL**
 
-- 💬 Ask me about **PYTHON , MERN , LINUX , DJANGO , SQL , JAVA**
+- 💬 Ask me about **JAVA , SQL , GIT , SEO , CLOUD**
 
 - 📫 How to reach me **https://elevenv.github.io/**
 <br>
