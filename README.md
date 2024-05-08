@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elevenv&label=Profile%20views&color=0e75b6&style=flat" alt="Elevenv" /> </p>
 
-- 🔭 I’m currently working on **Autonomous Navigation Bot**
+- 🔭 I’m currently working on **AR Based Tryon**
 
-- 🌱 I’m currently exploring **JAVA , SQL**
+- 🌱 I’m currently exploring **JAVA ,DSA, SQL**
 
 - 💬 Ask me about **JAVA , SQL , GIT , SEO , CLOUD**
 
-- 📫 How to reach me **https://elevenv.github.io/**
+- 📫 How to reach me **https://piyushchaudhari.site**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
