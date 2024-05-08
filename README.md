@@ -19,7 +19,10 @@
 
 [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=piyush-112&theme=react-dark)](https://github.com/piyush-112/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-112&bg_color=000000&color=ffffff&line=12ba2e&point=c0d13d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-112&bg_color=000000&color=ffffff&line=12ba2e&point=c0d13d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_PROFILE_USERNAME)](https://github.com/anuraghazra/readme-components)
+
  
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" /> -->
     
