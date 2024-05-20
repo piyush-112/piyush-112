@@ -21,6 +21,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-112&show_icons=true&theme=chartreuse-dark)
 
+
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 10px;">
+    <a href="https://piyushchaudhari.site">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-112&bg_color=000000&color=ffffff&line=12ba2e&point=c0d13d&area=true&hide_border=true" alt="Piyush's GitHub Activity Graph">
+    </a>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=piyush-112&show_icons=true&theme=chartreuse-dark" alt="Anurag's GitHub stats">
+  </div>
+</div>
+
  
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" /> -->
     
