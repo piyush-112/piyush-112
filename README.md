@@ -23,7 +23,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-112)](https://github.com/anuraghazra/readme-components)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-112&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-112&show_icons=true&theme=chartreuse-dark)
 
  
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" /> -->
