@@ -21,8 +21,6 @@
 
 [![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-112&bg_color=000000&color=ffffff&line=12ba2e&point=c0d13d&area=true&hide_border=true)](https://piyushchaudhari.site)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-112)](https://github.com/anuraghazra/readme-components)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-112&show_icons=true&theme=chartreuse-dark)
 
  
