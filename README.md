@@ -19,6 +19,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-112&layout=compact)](https://github.com/piyush-112)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkhatal&show_icons=true&locale=en&layout=compact" alt="aniketkhatal" /></p><br><br><br><br><br><hr>
+
 [![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-112&bg_color=000000&color=ffffff&line=12ba2e&point=c0d13d&area=true&hide_border=true)](https://piyushchaudhari.site)
 
 
