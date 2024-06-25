@@ -15,7 +15,7 @@
 <br>
 
 ### Social Handles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1000%2B%20followers-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamrokade277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.1K%2B%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamrokade277)
 [![Instagram](https://img.shields.io/badge/Instagram-500%2B%20followers-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shub_rokade)
 [![Facebook](https://img.shields.io/badge/Facebook-800%2B%20followers-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1200%2B%20followers-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
