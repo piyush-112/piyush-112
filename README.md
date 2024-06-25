@@ -16,10 +16,10 @@
 
 ### Social Handles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.1K%230077B5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamrokade277)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyush.112)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/piyushchaudhari112)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/piyush_112)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@techpcofficial)
+[![Instagram](https://img.shields.io/badge/Instagram-500%2B%20followers-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shub_rokade)
+[![Facebook](https://img.shields.io/badge/Facebook-800%2B%20followers-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1200%2B%20followers-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-2000%2B%20subscribers-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 
 <h3 align="left">Languages and Tools:</h3>
 
