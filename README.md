@@ -15,11 +15,11 @@
 <br>
 
 ### Social Handles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.1K%2B%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamrokade277)
-[![Instagram](https://img.shields.io/badge/Instagram-11K%2B%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shub_rokade)
-[![Facebook](https://img.shields.io/badge/Facebook-1.5K%2B%20-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%2B%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-59K%2B%20-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.1K%2B%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushchaudhari112)
+[![Instagram](https://img.shields.io/badge/Instagram-11K%2B%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/piyush.112)
+[![Facebook](https://img.shields.io/badge/Facebook-1.5K%2B%20-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/piyushchaudhari112)
+[![X](https://img.shields.io/badge/X-1200%2B%20followers-white?style=for-the-badge&logo=x&logoColor=%231DA1F2&labelColor=%231DA1F2)](https://x.com/piyush_112)
+[![YouTube](https://img.shields.io/badge/YouTube-59K%2B%20-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@techpcofficial)
 
 <h3 align="left">Languages and Tools:</h3>
 
