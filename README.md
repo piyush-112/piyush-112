@@ -33,9 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-112&langs_count=10&layout=compact&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-112&langs_count=10&layout=compact&text_color=ffffff&theme=cobalt)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-112&langs_count=10&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&theme=cobalt)
 
 
