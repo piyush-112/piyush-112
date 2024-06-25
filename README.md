@@ -56,8 +56,3 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/piyush_112?theme=dark)
 
-![LeetCode Easy Problems](https://img.shields.io/badge/LeetCode-Easy:%2030-brightgreen)
-![LeetCode Medium Problems](https://img.shields.io/badge/LeetCode-Medium:%2015-yellow)
-![LeetCode Hard Problems](https://img.shields.io/badge/LeetCode-Hard:%208-red)
-
-
