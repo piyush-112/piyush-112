@@ -54,5 +54,5 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/piyush_112?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/piyush.112?theme=dark)
 
