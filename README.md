@@ -44,7 +44,10 @@
 </div>
 
 
- 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush-112)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush-112&theme=radical)
+
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" /> -->
     
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" width=51% alt="Elevenv" /> -->
