@@ -50,8 +50,6 @@
 
 <!-- <img align="right" src="https://leetcard.jacoblin.cool/0Eleven?theme=dark" alt="Elevenv" /> -->
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=piyush-112&theme=dracula&hide_border=true)
-
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/piyush112?theme=dark)
 
