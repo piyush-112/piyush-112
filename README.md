@@ -53,3 +53,18 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/piyush112?theme=dark)
 
+
+![GitHub Snake](https://github.com/piyush-112/github-contribution-grid-snake.svg)
+
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak/streak.svg?user=piyush-112)
+
+
+![Ashutosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=piyush-112&theme=tokyonight)
+
+
+![WakaTime](https://wakatime.com/badge/user/your-username.svg)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush-112&theme=tokyonight)
+
+
