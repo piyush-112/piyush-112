@@ -53,6 +53,3 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/piyush112?theme=dark)
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=piyush-112&theme=tokyonight" alt="GitHub Streak" /></a>
-
